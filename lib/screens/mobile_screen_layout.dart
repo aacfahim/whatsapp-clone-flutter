@@ -54,6 +54,11 @@ class _MobileScreenLayoutState extends State<MobileScreenLayout> {
               ]),
         ),
         body: ContactsList(),
+        floatingActionButton: FloatingActionButton(
+          onPressed: () {},
+          backgroundColor: tabColor,
+          child: Icon(Icons.comment, color: Colors.white),
+        ),
       ),
     );
   }
