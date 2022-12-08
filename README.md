@@ -1,16 +1,7 @@
 # whatsapp_clone
 
-A new Flutter project.
+## Live Demo https://eloquent-swan-befee6.netlify.app/#/ 
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/37849194/206325862-fc5d0662-e76f-4ab3-919f-62b80b8be8be.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/37849194/206325911-1debe7f5-ba2b-437d-98f1-f470258a05e3.png)
